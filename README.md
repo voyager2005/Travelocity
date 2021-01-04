@@ -1,15 +1,12 @@
 # travel-accomodation
 🔵 Java
 
-This is the program that I did as an assignment for my school
-The program contains 6 classes that are interrelated 
-The program fuctions my running the main method in the MainExecution class
-
-PLEASE NOTE ALL THE FILES IN THIS REPO ARE INTERLINKED AND NEED TO BE RUN WITH THE PRESENCE OF ALL THE FILES/CLASSES. 
-THE PROGRAM MAY SHOW A FEW ERRORS IN THE ABSENCE OF A FEW FILE/CLASSES
+#### This is a program that I did as my school assignment. 
+#### This contains 7 classes that are interlinked with each other.
+#### I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling 
+ 
 
 # OUTPUT
-
 ![image1](https://user-images.githubusercontent.com/76808676/103506037-ce128500-4e81-11eb-9eb1-cf8e0e532bdb.png)
 ![image2](https://user-images.githubusercontent.com/76808676/103506038-ceab1b80-4e81-11eb-897d-f911b36a0ec1.png)
 ![image3](https://user-images.githubusercontent.com/76808676/103506039-ceab1b80-4e81-11eb-9157-9029e37ce97b.png)
