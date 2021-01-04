@@ -1,5 +1,4 @@
 # travel-accomodation
-🔵 Java
 
 #### This is a program that I did as my school assignment. 
 #### This contains 7 classes that are interlinked with each other.
