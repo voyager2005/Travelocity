@@ -24,6 +24,6 @@ This is a program that I did as my school assignment. This contains 7 classes th
 ![image9](https://user-images.githubusercontent.com/76808676/103506048-d10d7580-4e81-11eb-9417-4e04ae5370d5.png)
 ![image10](https://user-images.githubusercontent.com/76808676/103506049-d1a60c00-4e81-11eb-9876-f67ed4917a64.png)
 
-[layout]: http://localhost:63342/pythonPrograms/Layout.html?_ijt=odis9prem2ums4o3a1o3t3a2j3
-[Functions of the classes]: http://localhost:63342/pythonPrograms/MainExecution.html?_ijt=k27ud4ujppnguksgm7grmsg00l
-[How to run the program]: http://localhost:63342/pythonPrograms/How%20to%20Run%20the%20Program.html?_ijt=6lv1l9tmgc088p1kkqc8ts20kk
+[layout]: ![image6 1](https://user-images.githubusercontent.com/76808676/105148662-a6314b80-5b28-11eb-8e44-3cacf8a706ee.png)
+[Functions of the classes]: ![image6 2](https://user-images.githubusercontent.com/76808676/105148668-a7fb0f00-5b28-11eb-91d3-83909fd2494f.png)
+[How to run the program]: ![image6 3](https://user-images.githubusercontent.com/76808676/105148669-a893a580-5b28-11eb-9129-24db38ba13f4.png)
