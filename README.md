@@ -4,12 +4,15 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/voyager2005/travel-accomodation?logo=Github&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/voyager2005/travel-accomodation?logo=Github&style=plastic)
 
-#### This is a program that I did as my school assignment. 
-#### This contains 7 classes that are interlinked with each other.
-#### I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling 
- 
+This is a program that I did as my school assignment. This contains 7 classes that are interlinked wiht each other 
+<br />I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling
 
-# OUTPUT
+## Guide in steps:
+- [layout]
+- [Functions of the classes]
+- [How to run the program]
+
+## OUTPUT
 ![image1](https://user-images.githubusercontent.com/76808676/103506037-ce128500-4e81-11eb-9eb1-cf8e0e532bdb.png)
 ![image2](https://user-images.githubusercontent.com/76808676/103506038-ceab1b80-4e81-11eb-897d-f911b36a0ec1.png)
 ![image3](https://user-images.githubusercontent.com/76808676/103506039-ceab1b80-4e81-11eb-9157-9029e37ce97b.png)
@@ -20,3 +23,7 @@
 ![image8](https://user-images.githubusercontent.com/76808676/103506047-d10d7580-4e81-11eb-8a17-83aa6135f117.png)
 ![image9](https://user-images.githubusercontent.com/76808676/103506048-d10d7580-4e81-11eb-9417-4e04ae5370d5.png)
 ![image10](https://user-images.githubusercontent.com/76808676/103506049-d1a60c00-4e81-11eb-9876-f67ed4917a64.png)
+
+[layout]: http://localhost:63342/pythonPrograms/Layout.html?_ijt=odis9prem2ums4o3a1o3t3a2j3
+[Functions of the classes]: http://localhost:63342/pythonPrograms/MainExecution.html?_ijt=k27ud4ujppnguksgm7grmsg00l
+[How to run the program]: http://localhost:63342/pythonPrograms/How%20to%20Run%20the%20Program.html?_ijt=6lv1l9tmgc088p1kkqc8ts20kk
