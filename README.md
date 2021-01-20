@@ -12,6 +12,10 @@ This is a program that I did as my school assignment. This contains 7 classes th
 - [Functions of the classes]
 - [How to run the program]
 
+## License and copyright
+© Akshat G
+<br />Licensed under [MIT license](LICENSE)
+
 ## OUTPUT
 ![image1](https://user-images.githubusercontent.com/76808676/103506037-ce128500-4e81-11eb-9eb1-cf8e0e532bdb.png)
 ![image2](https://user-images.githubusercontent.com/76808676/103506038-ceab1b80-4e81-11eb-897d-f911b36a0ec1.png)
