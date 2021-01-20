@@ -25,5 +25,5 @@ This is a program that I did as my school assignment. This contains 7 classes th
 ![image10](https://user-images.githubusercontent.com/76808676/103506049-d1a60c00-4e81-11eb-9876-f67ed4917a64.png)
 
 [layout]: https://user-images.githubusercontent.com/76808676/105148662-a6314b80-5b28-11eb-8e44-3cacf8a706ee.png
-[Functions of the classes]: https://user-images.githubusercontent.com/76808676/105148668-a7fb0f00-5b28-11eb-91d3-83909fd2494f.png
-[How to run the program]: https://user-images.githubusercontent.com/76808676/105148669-a893a580-5b28-11eb-9129-24db38ba13f4.png
+[Functions of the classes]: https://user-images.githubusercontent.com/76808676/105148669-a893a580-5b28-11eb-9129-24db38ba13f4.png
+[How to run the program]: https://user-images.githubusercontent.com/76808676/105148668-a7fb0f00-5b28-11eb-91d3-83909fd2494f.png
