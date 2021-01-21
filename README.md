@@ -16,10 +16,15 @@ This is a program that I did as my school assignment. This contains 7 classes th
 © Akshat G
 <br />Licensed under [MIT license](LICENSE)
 
-## OUTPUT
-![image1](https://user-images.githubusercontent.com/76808676/103506037-ce128500-4e81-11eb-9eb1-cf8e0e532bdb.png)
-![image2](https://user-images.githubusercontent.com/76808676/103506038-ceab1b80-4e81-11eb-897d-f911b36a0ec1.png)
-![image3](https://user-images.githubusercontent.com/76808676/103506039-ceab1b80-4e81-11eb-9157-9029e37ce97b.png)
+## Output
+1. [layout]:
+<br />![image1](https://user-images.githubusercontent.com/76808676/103506037-ce128500-4e81-11eb-9eb1-cf8e0e532bdb.png)
+
+2. starting the program:
+<br />![image2](https://user-images.githubusercontent.com/76808676/103506038-ceab1b80-4e81-11eb-897d-f911b36a0ec1.png)
+<br />![image3](https://user-images.githubusercontent.com/76808676/103506039-ceab1b80-4e81-11eb-9157-9029e37ce97b.png)
+
+3. Output:
 ![image4](https://user-images.githubusercontent.com/76808676/103506041-cf43b200-4e81-11eb-865b-736b44af785c.png)
 ![image5](https://user-images.githubusercontent.com/76808676/103506042-cfdc4880-4e81-11eb-858a-01e1bcefbdef.png)
 ![image6](https://user-images.githubusercontent.com/76808676/103506044-cfdc4880-4e81-11eb-84d1-3bc478f6508c.png)
