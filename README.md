@@ -7,6 +7,20 @@
 This is a program that I did as my school assignment. This contains 7 classes that are interlinked wiht each other 
 <br />I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling
 
+## Key:
+[Guide in steps] 
+<br />[License and copyright]
+<br />[Output]
+<br />[Exception Handling]
+<br />[Thread.sleep(<time_in_millisecods>);]
+
+[Guide in steps]: https://github.com/voyager2005/Travelocity#guide-in-steps
+[License and copyright]: https://github.com/voyager2005/Travelocity#license-and-copyright
+[Output]: https://github.com/voyager2005/Travelocity#output
+[Exception Handling]: https://github.com/voyager2005/Travelocity#exception-handling
+[Thread.sleep(<time_in_millisecods>);]: https://github.com/voyager2005/Travelocity#threadsleeptime_in_millisecods
+
+
 ## Guide in steps:
 - [layout]
 - [Functions of the classes]
