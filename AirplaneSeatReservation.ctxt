@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AirplaneSeatReservation
+comment1.params=
+comment1.target=void\ displayAirplaneSeats()
+comment2.params=obj1
+comment2.target=void\ Choose(InputDetails)
+numComments=3
