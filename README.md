@@ -6,6 +6,10 @@
 
 <br />This is a program that I did as my school assignment. This contains 7 classes that are interlinked wiht each other 
 <br />I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling
+<br />
+<br />You can always feel free to contact me on my [mail]. Do not forget to ⭐ this repository of you liked it.
+
+[mail]: mailto:voyager2005.github@gmail.com
 
 ## Key:
 [License and copyright]
