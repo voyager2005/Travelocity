@@ -13,8 +13,8 @@
 
 ## Announcements 🔊:
 Some updates as of **_4:09pm 20-01-21_**
-• based on request from friends and all the mails I will be creating individual code samples of all the above class. Hopefully I can complete that in 2-3 days. Thanks
-• I have already created one for AirplaneSeatReservation. You can view that repository [here]
+<br />• based on request from friends and all the mails I will be creating individual code samples of all the above class. Hopefully I can complete that in 2-3 days. Thanks
+<br />• I have already created one for AirplaneSeatReservation. You can view that repository [here]
 
 [here]: https://github.com/voyager2005/aeroplane-seat-reservation.git
 
