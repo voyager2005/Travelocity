@@ -11,6 +11,10 @@
 
 [mail]: mailto:voyager2005.github@gmail.com
 
+## Announcements 🔊:
+Some updates as of 4:09pm 20-01-21
+• based on request from friends and all the mails I will be creating individual code samples of all the above class. Hopefully I can complete that in 2-3 days. Thanks
+
 ## Key:
 [License and copyright]
 <br />[Output]
