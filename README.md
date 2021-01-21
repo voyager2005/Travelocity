@@ -3,7 +3,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/voyager2005/travel-accomodation?logo=Github&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/voyager2005/travel-accomodation?logo=Github&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/voyager2005/travel-accomodation?logo=Github&style=plastic)
-This is a program that I did as my school assignment. This contains 7 classes that are interlinked wiht each other 
+
+<br />This is a program that I did as my school assignment. This contains 7 classes that are interlinked wiht each other 
 <br />I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling
 
 ## Key:
