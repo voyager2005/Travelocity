@@ -7,13 +7,16 @@
 <br />This is a program that I did as my school assignment. This contains 7 classes that are interlinked wiht each other 
 <br />I have tried my best to include exception handling for each input. Let me know in the comments if there are any parts of the program that do not have exception handling
 <br />
-<br />You can always feel free to contact me on my [mail]. Do not forget to ⭐ this repository of you liked it.
+<br />**_You can always feel free to contact me on my [mail]. Do not forget to ⭐ this repository of you liked it._**
 
 [mail]: mailto:voyager2005.github@gmail.com
 
 ## Announcements 🔊:
-Some updates as of 4:09pm 20-01-21
+Some updates as of **_4:09pm 20-01-21_**
 • based on request from friends and all the mails I will be creating individual code samples of all the above class. Hopefully I can complete that in 2-3 days. Thanks
+• I have already created one for AirplaneSeatReservation. You can view that repository [here]
+
+[here]: https://github.com/voyager2005/aeroplane-seat-reservation.git
 
 ## Key:
 [License and copyright]
